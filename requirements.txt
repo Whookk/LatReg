@@ -1,0 +1,12 @@
+torch
+transformers
+datasets
+tokenizers
+accelerate
+
+numpy
+pandas
+scipy
+tqdm
+
+langdetect
