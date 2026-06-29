@@ -42,12 +42,10 @@ The regularization objective minimizes the KL divergence between latent feature 
 
 ```
 .
-├── Mesu_FoX_5_tests_rand_seeds.py      # Main continual learning experiments
+├── LatReg_5_rand_seeds.py      # Main continual learning experiments
 ├── dataset_preprocess.py               # Wikipedia & News preprocessing
 ├── legal_preprocess.py                 # EurLex preprocessing
-├── continual_datasets/                 # Generated datasets
-├── hf_cache/                           # HuggingFace cache
-├── results/                            # Experimental results
+├── requirements.txt                #Requirements of the project
 └── README.md
 ```
 
